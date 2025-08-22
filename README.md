@@ -1,0 +1,2 @@
+# fulfillment-com-2-0-openapi
+OpenAPI specification for fulfillment.com API v2.0
